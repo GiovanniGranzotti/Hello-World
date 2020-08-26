@@ -12,3 +12,4 @@ Links úteis:
 * O maior evento python da America Latina [Python Brasil 2020](https://www.eventbrite.com.br/e/python-brasil-2020-tickets-117927633727)
 * Free e-books em [Packt](https://www.packtpub.com/free-learning)
 * Comunidade de desenvolvedores no [Dev](https://dev.to/)
+* Lista de [funções](https://docs.python.org/3/library/functions.html)
