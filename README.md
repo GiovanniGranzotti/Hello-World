@@ -13,3 +13,4 @@ Links úteis:
 * Free e-books em [Packt](https://www.packtpub.com/free-learning)
 * Comunidade de desenvolvedores no [Dev](https://dev.to/)
 * Lista de [funções](https://docs.python.org/3/library/functions.html)
+* Aprofundamento sobre [Tuplas](http://pythonclub.com.br/tuplas-mutantes-em-python.html)
